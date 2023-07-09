@@ -1,3 +1,18 @@
+<script lang="ts" setup>
+useHead({
+  title: 'Portfolio - Richard van Driest (Software Engineer)',
+  htmlAttrs: {
+    lang: 'nl',
+  },
+  meta: [
+    {
+      name: 'description',
+      content: 'Software op maat: innovatieve oplossingen voor jouw digitale uitdagingen.'
+    },
+  ]
+})
+</script>
+
 <template>
   <main class="min-h-screen dark:bg-gray-900 text-white">
     <section class="flex flex-col justify-center h-screen w-full">
