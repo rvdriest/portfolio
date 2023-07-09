@@ -43,7 +43,7 @@ useHead({
   			</div>
   		</div> 
   		<p class="absolute bottom-6 w-full text-center text-gray-500">
-  			© {{ new Date().getFullYear() }} RVDriest Solutions. All Rights Reserved.
+  			© {{ new Date().getFullYear() }} RVDriest Solutions. Alle rechten voorbehouden.
   		</p>
   	</section>
   </main>
